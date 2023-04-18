@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE.txt"
+hash = "21b0ac69e8708a8d05930fe6f2b7b6127419954d747ee00d485e9b0f61a0dff5"
+
+[[files]]
 file = "mods/advanced-chimneys.pw.toml"
 hash = "af7fd95ae494a2480efd0ac6d98177c747cadd94c2c172125b27430c01c2e774"
 metafile = true
@@ -18,11 +22,6 @@ metafile = true
 [[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "1e2db94700eabc46e3562d5b9f4282afdc900513a1ac7d2a219823447c817aa9"
-metafile = true
-
-[[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "db28449fb57fcd2607019fa7cefb558d13df13937b44298b732d44bac0e32e96"
 metafile = true
 
 [[files]]
@@ -121,11 +120,6 @@ hash = "16d61b01a0a951aad6c4eaa955b4d9db13ef3ce094d7126eb1fc34d4068bfe8f"
 metafile = true
 
 [[files]]
-file = "mods/citadel.pw.toml"
-hash = "a52e9270056ae9bca8c548923cef6e23cc9152a9b888b659bb1ab8f8b8536bde"
-metafile = true
-
-[[files]]
 file = "mods/cobblefordays.pw.toml"
 hash = "8ad527bbe4a7a481f6c143e343c76e56d3c86defe62889fe6ee5b1c8f6571cdb"
 metafile = true
@@ -143,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/compact-machines.pw.toml"
 hash = "53d2af852bfd91938b19c1c25a9678ce2cb34f09494514f44fa0e59313e8eab6"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
 
 [[files]]
@@ -312,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
-hash = "9024f02745569f21538c4fec01d7927a981ea832cd4e55bedcde70cfbd62abfb"
+hash = "230559680c828e89d7ca1b986fce0d29f73502565e7ced4f6deb0a52d1628741"
 metafile = true
 
 [[files]]
@@ -368,6 +367,16 @@ metafile = true
 [[files]]
 file = "mods/itemphysic.pw.toml"
 hash = "7ca8b220ecb28df862fef91fceb9da2d2ade2c403407164a9aef73fb79cbbf6b"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "4b71171ba73da26c1582f013ebd49882b7d101da463a71ada07854c1aede2206"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "2b7ad9503a31d7b4be0f53b8d5b07761983646646fda873c7277b04982f5ecfb"
 metafile = true
 
 [[files]]

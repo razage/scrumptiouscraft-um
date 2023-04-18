@@ -1,12 +1,12 @@
 name = "ScrumptiousCraft Um"
 author = "razage"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a3c74b223b8aaf5482815979b773633c16c15478172a29e22facb7f498ea2a0c"
+hash = "37cba94b8646eb90c994ec36362f440e72d4fe43388ecf5725c92b3fc094cd88"
 
 [versions]
 forge = "43.2.8"
