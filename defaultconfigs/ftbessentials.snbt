@@ -1,0 +1,21 @@
+teleport: {
+	back: {
+		enabled: false
+	}
+
+	home: {
+		enabled: false
+	}
+
+	rtp: {
+		enabled: false
+	}
+
+	spawn: {
+		enabled: false
+	}
+
+	tpa: {
+		enabled: false
+	}
+}
