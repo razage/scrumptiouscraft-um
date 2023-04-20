@@ -5,12 +5,12 @@ file = "LICENSE.txt"
 hash = "21b0ac69e8708a8d05930fe6f2b7b6127419954d747ee00d485e9b0f61a0dff5"
 
 [[files]]
-file = "config/Mekanism/almostunified/unify.json"
-hash = "efeedd71425606e55f2c16be71d0d325607045d3e914f886b0b57ed09b65413a"
-
-[[files]]
 file = "config/Mekanism/world.toml"
 hash = "8603b247cecb151a056178a85450ccd45f8cdda9103de9a5ea7b02aef74d10fc"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "efeedd71425606e55f2c16be71d0d325607045d3e914f886b0b57ed09b65413a"
 
 [[files]]
 file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
@@ -21,8 +21,12 @@ file = "defaultconfigs/ftbessentials.snbt"
 hash = "09e2485d7813ba56d55a5aefa339cd6bfafff9ca6aed41b04bb550d3d57a3ac2"
 
 [[files]]
+file = "kubejs/client_scripts/hide.js"
+hash = "5d481198f4fbd86ba8127796ca8c5e617e4b2c76a0ef2552e5e8dbe576ee261f"
+
+[[files]]
 file = "kubejs/server_scripts/currency.js"
-hash = "225e79586716505fdccb56aec667accad82aa3a25fd07bdd92351854a919b967"
+hash = "0d4c63070a3ca92f587b81b9330ee5f09c08061287175feddd0e67309d116a41"
 
 [[files]]
 file = "mods/advanced-chimneys.pw.toml"
@@ -505,8 +509,23 @@ hash = "d0674dbe5d5d5661f8746475cb28439e580e61f9fc0ea7f42c6c5a58c77d655f"
 metafile = true
 
 [[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "30a98c2d143d15fd3916892e63bb0269f4b1124d09220315959f62e3afbf7d0d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "7f0fdcb05f21e5c6d86beedefca4c2e60d87ede97de306bc85ed10a646e67227"
+metafile = true
+
+[[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "b2d7d550238a9224ad82f0db86e9dcb0b038eaa91f5a7d563bdca6887f3d8c52"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "ccae58379e56d3148c08a27bcd825b1c7f50c984f7d970d5235dae638b3b4f51"
 metafile = true
 
 [[files]]

@@ -1,5 +1,6 @@
 // priority 0
 
+// Removing recipes
 ServerEvents.recipes((event) => {
     // Remove recipes for coin minting and burning from TE
     event.remove({ id: "thermal:press_coin_die" });
@@ -20,4 +21,8 @@ ServerEvents.recipes((event) => {
     event.remove({ output: "createdeco:netherite_coinstack" });
     event.remove({ output: "createdeco:zinc_coin" });
     event.remove({ output: "createdeco:zinc_coinstack" });
+
+    // Back-up solution for breaking up currency
+    event.stonecutting("10x thermal:copper_coin", "thermal:silver_coin");
+    event.stonecutting("10x thermal:silver_coin", "thermal:gold_coin");
 });
